@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd">
+  <meta lastmodifieddate="2020-12-09">
+    <creator>NetworkX 2.5</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="Football League Second Division" label="Football League Second Division" />
+      <node id="Football Alliance" label="Football Alliance" />
+      <node id="William McGregor" label="William McGregor" />
+      <node id="Manchester City" label="Manchester City" />
+      <node id="FA Premier League" label="FA Premier League" />
+      <node id="Football League First Division" label="Football League First Division" />
+      <node id="Football League One" label="Football League One" />
+      <node id="Aston Villa" label="Aston Villa" />
+      <node id="Manchester" label="Manchester" />
+      <node id="Irish Land League." label="Irish Land League." />
+      <node id="Football League" label="Football League" />
+      <node id="England" label="England" />
+      <node id="Grimsby" label="Grimsby" />
+      <node id="English Midlands" label="English Midlands" />
+      <node id="Stoke" label="Stoke" />
+      <node id="Church of England" label="Church of England" />
+      <node id="Aston" label="Aston" />
+      <node id="Birmingham" label="Birmingham" />
+      <node id="Scottish Football League" label="Scottish Football League" />
+      <node id="West Bromwich Albion" label="West Bromwich Albion" />
+      <node id="Manchester City Football Club" label="Manchester City Football Club" />
+      <node id="Premier League" label="Premier League" />
+      <node id="Stoke City" label="Stoke City" />
+      <node id="Champions League" label="Champions League" />
+      <node id="FA Cup" label="FA Cup" />
+      <node id="English Football League" label="English Football League" />
+      <node id="UEFA" label="UEFA" />
+      <node id="Arsenal" label="Arsenal" />
+      <node id="European" label="European" />
+      <node id="Liverpool" label="Liverpool" />
+    </nodes>
+    <edges>
+      <edge id="0" source="Football League Second Division" target="Football League Second Division" />
+      <edge id="1" source="Football League Second Division" target="Football Alliance" />
+      <edge id="2" source="Football League Second Division" target="William McGregor" />
+      <edge id="3" source="Football League Second Division" target="Manchester City" />
+      <edge id="4" source="Football League Second Division" target="FA Premier League" />
+      <edge id="5" source="Football League Second Division" target="Football League First Division" />
+      <edge id="6" source="Football League Second Division" target="Football League One" />
+      <edge id="7" source="Football League Second Division" target="Aston Villa" />
+      <edge id="8" source="Football League Second Division" target="Manchester" />
+      <edge id="9" source="Football League Second Division" target="Irish Land League." />
+      <edge id="10" source="Football Alliance" target="Football League" />
+      <edge id="11" source="Football Alliance" target="England" />
+      <edge id="12" source="Football Alliance" target="Grimsby" />
+      <edge id="13" source="Football Alliance" target="English Midlands" />
+      <edge id="14" source="Football Alliance" target="Stoke" />
+      <edge id="15" source="William McGregor" target="Church of England" />
+      <edge id="16" source="William McGregor" target="Aston" />
+      <edge id="17" source="William McGregor" target="Birmingham" />
+      <edge id="18" source="William McGregor" target="Scottish Football League" />
+      <edge id="19" source="William McGregor" target="West Bromwich Albion" />
+      <edge id="20" source="Manchester City" target="Manchester City Football Club" />
+      <edge id="21" source="Manchester City" target="Premier League" />
+      <edge id="22" source="Manchester City" target="Stoke City" />
+      <edge id="23" source="Manchester City" target="Champions League" />
+      <edge id="24" source="Manchester City" target="FA Cup" />
+      <edge id="25" source="FA Premier League" target="English Football League" />
+      <edge id="26" source="FA Premier League" target="UEFA" />
+      <edge id="27" source="FA Premier League" target="Arsenal" />
+      <edge id="28" source="FA Premier League" target="European" />
+      <edge id="29" source="FA Premier League" target="Liverpool" />
+    </edges>
+  </graph>
+</gexf>
